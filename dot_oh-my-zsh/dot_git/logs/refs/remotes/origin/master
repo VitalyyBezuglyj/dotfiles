@@ -1,0 +1,18 @@
+0000000000000000000000000000000000000000 2e7a247cab663fbc0aafdefa15bf10eb4dd64563 Vitaly <kowalski@fedora.(none)> 1682882106 +0300	fetch --depth=1 origin: storing head
+2e7a247cab663fbc0aafdefa15bf10eb4dd64563 fb4213c34ff8ec83cbe6251f432fdac383378562 Bezuglyj Vitaly <bevidm@yandex.ru> 1685296194 +0300	pull --quiet --rebase origin master: fast-forward
+fb4213c34ff8ec83cbe6251f432fdac383378562 cb8b677488c7a20278917af58dfccd72cd40e1b1 Bezuglyj Vitaly <bevidm@yandex.ru> 1686590332 +0300	pull --quiet --rebase origin master: fast-forward
+cb8b677488c7a20278917af58dfccd72cd40e1b1 8a6fc5c16d49368dc8f9ddd965a9e25ef652e129 Bezuglyj Vitaly <bevidm@yandex.ru> 1687353212 +0300	fetch: fast-forward
+8a6fc5c16d49368dc8f9ddd965a9e25ef652e129 fe4b5659863c388786986d70fa6d1bb66b00afb6 Bezuglyj Vitaly <bevidm@yandex.ru> 1688212787 +0300	pull --quiet --rebase origin master: fast-forward
+fe4b5659863c388786986d70fa6d1bb66b00afb6 8bdb5c959c9a5c74d3b59c05a3a0bca5e602c3cd Bezuglyj Vitaly <bevidm@yandex.ru> 1689748547 +0300	pull --quiet --rebase origin master: fast-forward
+8bdb5c959c9a5c74d3b59c05a3a0bca5e602c3cd b81915d3293cc4657cec64202b9fd991b96b4ba2 Bezuglyj Vitaly <bevidm@yandex.ru> 1692371883 +0300	pull --quiet --rebase origin master: fast-forward
+b81915d3293cc4657cec64202b9fd991b96b4ba2 2ef7c73cc884163367279e4b586136e3335b1c53 Bezuglyj Vitaly <bevidm@yandex.ru> 1693471899 +0300	pull --quiet --rebase origin master: fast-forward
+2ef7c73cc884163367279e4b586136e3335b1c53 bbda81fe4b338f00bbf7c7f33e6d1b12d067dc05 Bezuglyj Vitaly <bevidm@yandex.ru> 1694766165 +0300	pull --quiet --rebase origin master: fast-forward
+bbda81fe4b338f00bbf7c7f33e6d1b12d067dc05 0e1e877ea9182f87b3ab34cbc2ea944b34f5345e Bezuglyj Vitaly <bevidm@yandex.ru> 1695900930 +0300	pull --quiet --rebase origin master: fast-forward
+0e1e877ea9182f87b3ab34cbc2ea944b34f5345e 3efdbf9e1e6663adf9d8a2d113ec62855c621ef7 Bezuglyj Vitaly <bevidm@yandex.ru> 1697203937 +0300	pull --quiet --rebase origin master: fast-forward
+3efdbf9e1e6663adf9d8a2d113ec62855c621ef7 38c01a235fef0d990be5ece0d62f94fd06b10571 Bezuglyj Vitaly <bevidm@yandex.ru> 1698568864 +0300	pull --quiet --rebase origin master: fast-forward
+38c01a235fef0d990be5ece0d62f94fd06b10571 b6bb133f230847ed0b3f9f4e25f2ceb874ca6c91 Bezuglyj Vitaly <bevidm@yandex.ru> 1699801668 +0300	pull --quiet --rebase origin master: fast-forward
+b6bb133f230847ed0b3f9f4e25f2ceb874ca6c91 e11d81303753b0fefbc50ce10ec4612c7ff33e84 Bezuglyj Vitaly <bevidm@yandex.ru> 1700996263 +0300	pull --quiet --rebase origin master: fast-forward
+e11d81303753b0fefbc50ce10ec4612c7ff33e84 48ccc7b36de8efb2bd7beb9bd6e0a6f6fe03b95d Bezuglyj Vitaly <bevidm@yandex.ru> 1702154978 +0300	pull --quiet --rebase origin master: fast-forward
+48ccc7b36de8efb2bd7beb9bd6e0a6f6fe03b95d 9004c177bac951f46ab1ec5b74a8bcfb8e3c686b Bezuglyj Vitaly <bevidm@yandex.ru> 1703244317 +0300	pull --quiet --rebase origin master: fast-forward
+9004c177bac951f46ab1ec5b74a8bcfb8e3c686b 1c8dee848dad169c9eb1a7b0148842b48a99cad1 Bezuglyj Vitaly <bevidm@yandex.ru> 1705073744 +0300	pull --quiet --rebase origin master: fast-forward
+1c8dee848dad169c9eb1a7b0148842b48a99cad1 70bf12402ceb5599f209bd687d4ee9d9dbf1776a Bezuglyj Vitaly <bevidm@yandex.ru> 1707048058 +0300	pull --quiet --rebase origin master: fast-forward
