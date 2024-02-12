@@ -106,20 +106,20 @@ fi
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-export PATH="/home/kowalski/.local/bin:$PATH"
+export PATH="/home/$USER/.local/bin:$PATH"
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 # [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/home/kowalski/miniconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+__conda_setup="$('/home/$USER/miniconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
     eval "$__conda_setup"
 else
-    if [ -f "/home/kowalski/miniconda3/etc/profile.d/conda.sh" ]; then
-        . "/home/kowalski/miniconda3/etc/profile.d/conda.sh"
+    if [ -f "/home/$USER/miniconda3/etc/profile.d/conda.sh" ]; then
+        . "/home/$USER/miniconda3/etc/profile.d/conda.sh"
     else
-        export PATH="/home/kowalski/miniconda3/bin:$PATH"
+        export PATH="/home/$USER/miniconda3/bin:$PATH"
     fi
 fi
 unset __conda_setup
@@ -143,15 +143,15 @@ ttree() {
 
 export XDG_CONFIG_HOME=$HOME/.config
 alias vim=nvim
-export PATH=$PATH:/home/kowalski/Apps/outline-sdk/x/examples/outline-cli
+export PATH=$PATH:/home/$USER/Apps/outline-sdk/x/examples/outline-cli
 
-alias outline='sudo /home/kowalski/Apps/outline-sdk/x/examples/outline-cli/outline-cli -transport "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4NU5Sb0g3M05xTXlVNHY0bnpDOFNK@46.19.69.24:39167"'
+alias outline='sudo /home/$USER/Apps/outline-sdk/x/examples/outline-cli/outline-cli -transport "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4NU5Sb0g3M05xTXlVNHY0bnpDOFNK@46.19.69.24:39167"'
 
 # The next line updates PATH for Yandex Cloud CLI.
-if [ -f '/home/kowalski/yandex-cloud/path.bash.inc' ]; then source '/home/kowalski/yandex-cloud/path.bash.inc'; fi
+if [ -f '/home/$USER/yandex-cloud/path.bash.inc' ]; then source '/home/$USER/yandex-cloud/path.bash.inc'; fi
 
 # The next line enables shell command completion for yc.
-if [ -f '/home/kowalski/yandex-cloud/completion.zsh.inc' ]; then source '/home/kowalski/yandex-cloud/completion.zsh.inc'; fi
+if [ -f '/home/$USER/yandex-cloud/completion.zsh.inc' ]; then source '/home/$USER/yandex-cloud/completion.zsh.inc'; fi
 
 # Starship
 # eval "$(starship init zsh)"
