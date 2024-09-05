@@ -1,7 +1,7 @@
-theme="catppuccin_mocha"
+theme="no_italics/catppuccin_mocha"
 
 [editor]
-true-color = true
+true-color = false
 shell = ["zsh", "-c"]
 line-number = "relative"
 text-width = 110

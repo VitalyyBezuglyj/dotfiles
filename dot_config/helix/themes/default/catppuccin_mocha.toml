@@ -38,7 +38,7 @@
 
 "tag" = "blue"
 
-"namespace" = { fg = "yellow", modifiers = ["italic"] }
+"namespace" = { fg = "yellow" }#  , modifiers = ["italic"] }
 
 "special" = "blue" # fuzzy highlight
 
