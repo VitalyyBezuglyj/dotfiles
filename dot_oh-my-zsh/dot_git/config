@@ -14,7 +14,7 @@
 [oh-my-zsh]
 	remote = origin
 	branch = master
-	lastVersion = 1c8dee848dad169c9eb1a7b0148842b48a99cad1
+	lastVersion = efafef8495f030501e0df59ccb76a598bbce3ae1
 [remote "origin"]
 	url = https://github.com/ohmyzsh/ohmyzsh.git
 	fetch = +refs/heads/*:refs/remotes/origin/*

@@ -143,7 +143,7 @@ ttree() {
 
 export XDG_CONFIG_HOME=$HOME/.config
 alias vim=nvim
-export PATH=$PATH:/home/$USER/Apps/outline-sdk/x/examples/outline-cli
+export PATH=$PATH:/home/$USER/Apps/outline-sdk/x/examples/outline-cli:/home/kowalski/.cargo/bin
 
 alias outline='sudo /home/$USER/Apps/outline-sdk/x/examples/outline-cli/outline-cli -transport "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4NU5Sb0g3M05xTXlVNHY0bnpDOFNK@46.19.69.24:39167"'
 
@@ -158,3 +158,12 @@ if [ -f '/home/$USER/yandex-cloud/completion.zsh.inc' ]; then source '/home/$USE
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+eval "$(zoxide init zsh)"
+
+alias cd='z'
+alias ls='exa'
+alias l='ls -l'
+
+alias cat="bat"
+export PATH=$PATH:~/.spoof-dpi/bin
+source "$HOME/.cargo/env"
