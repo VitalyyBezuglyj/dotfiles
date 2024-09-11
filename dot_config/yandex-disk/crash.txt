@@ -1,0 +1,37 @@
+2024-07-08.22:54:29
+Got signal 6
+0.1.6.1080 x64
+[bt] Execution path:
+[bt] /lib64/libc.so.6(+0x8b3be) [0x7f9d1a2a93be]
+[bt] /lib64/libc.so.6(+0x8b3be) [0x7f9d1a2a93be]
+[bt] /lib64/libc.so.6(pthread_mutex_lock+0x111) [0x7f9d1a2afe41]
+[bt] /usr/bin/yandex-disk() [0x43db58]
+[bt] /usr/bin/yandex-disk() [0x4b86f8]
+[bt] /usr/bin/yandex-disk() [0x44572b]
+[bt] /usr/bin/yandex-disk() [0x45b0aa]
+[bt] /usr/bin/yandex-disk() [0x463a95]
+[bt] /usr/bin/yandex-disk() [0x43288f]
+[bt] /usr/bin/yandex-disk() [0x44c4b1]
+[bt] /usr/bin/yandex-disk() [0x4144cf]
+[bt] /usr/bin/yandex-disk() [0x417885]
+[bt] /lib64/libc.so.6(+0x2814a) [0x7f9d1a24614a]
+[bt] /lib64/libc.so.6(__libc_start_main+0x8b) [0x7f9d1a24620b]
+[bt] /usr/bin/yandex-disk() [0x4140e9]
+
+2024-08-28.10:39:46
+Got signal 11, faulty address is 0, from 0x7fbb4e4cd454 
+0.1.6.1080 x64
+[bt] Execution path:
+[bt] /lib64/libstdc++.so.6(_ZSt18_Rb_tree_incrementPSt18_Rb_tree_node_base+0x24) [0x7fbb4e4cd454]
+[bt] /lib64/libstdc++.so.6(_ZSt18_Rb_tree_incrementPSt18_Rb_tree_node_base+0x24) [0x7fbb4e4cd454]
+[bt] /usr/bin/yandex-disk() [0xa4bf1a]
+[bt] /usr/bin/yandex-disk() [0xa4fdbc]
+[bt] /usr/bin/yandex-disk() [0xa5044a]
+[bt] /usr/bin/yandex-disk() [0xa5328f]
+[bt] /usr/bin/yandex-disk() [0x45a85a]
+[bt] /usr/bin/yandex-disk() [0x43288f]
+[bt] /usr/bin/yandex-disk() [0x8258e5]
+[bt] /usr/bin/yandex-disk() [0xa7424c]
+[bt] /lib64/libc.so.6(+0x8e897) [0x7fbb4e2ac897]
+[bt] /lib64/libc.so.6(+0x115a5c) [0x7fbb4e333a5c]
+
