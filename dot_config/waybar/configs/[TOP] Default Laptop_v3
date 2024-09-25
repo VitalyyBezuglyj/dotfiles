@@ -48,7 +48,7 @@
 	"group/audio",
 	"custom/separator#line",
 	"keyboard-state",
-	"custom/keyboard",
+	"hyprland/language",
 	"custom/lock",
 	"custom/power",
 	],
